@@ -1,0 +1,11 @@
+{
+  "name": "talha-caller-id-backend",
+  "version": "0.1.0",
+  "private": true,
+  "description": "TALHA CALLER ID backend: auth, caller ID authorization, provider adapter. No runtime dependencies.",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  },
+  "engines": { "node": ">=18" }
+}

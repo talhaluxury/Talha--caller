@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.TalhaCallerId" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">#FFFAF8F5</item>
+        <item name="android:statusBarColor">#FFFAF8F5</item>
+        <item name="android:navigationBarColor">#FFFAF8F5</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
